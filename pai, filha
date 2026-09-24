@@ -1,4 +1,4 @@
-# Classe base simples (sem ABC)
+# Classe base simples (sem ABC) ajuste de testeajfld
 class Conteudo:
     def __init__(self, titulo, genero):
         self.titulo = titulo
